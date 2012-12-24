@@ -1,0 +1,7 @@
+[Screenlet Package]
+Name=TVControlScreenlet
+Author=Aleks
+Desc=An AMX Serial Control Remote
+Version=0.3
+ApiVersion=0.0.12
+Created=2008/10/15
